@@ -1,1 +1,0 @@
-# Python_Yapay_Zeka-
